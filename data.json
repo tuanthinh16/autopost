@@ -1,0 +1,12 @@
+[
+    {
+        "title": "test bai 1",
+        "type": "Working",
+        "details": "hello test lan 1"
+    },
+    {
+        "title": "test bai 2",
+        "type": "learning",
+        "details": "hello test lan 2"
+    }
+]
